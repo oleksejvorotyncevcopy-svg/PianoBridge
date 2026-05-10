@@ -31,8 +31,6 @@ This project is built using [Theos](https://github.com/theos/theos).
    ```bash
    make package install
 
-```
-
 ## How to Use
 
 1. Launch the **PianoBridge** app on your device.
